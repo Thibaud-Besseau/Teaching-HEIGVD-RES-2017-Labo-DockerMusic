@@ -1,0 +1,14 @@
+{
+  "name": "musician",
+  "description": "UDP sender",
+  "author": "Besseau Thibaud",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thibaud-Besseau/Teaching-HEIGVD-RES-2017-Labo-DockerMusic"
+  },
+  "dependencies": {
+    "uuid": "^3.0.1"
+  }
+}
